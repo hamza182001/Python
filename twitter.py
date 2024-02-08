@@ -14,4 +14,3 @@ if matches:
 """username = re.sub(r"^(https?://)?(www\.)?twitter\.com/","",url) #re.sub means to subsitute and it return a string its function looks like this re.sub(pattern,repl,string,count=0,flag=0)
 print("Username:",username)"""
 
-#additional 
